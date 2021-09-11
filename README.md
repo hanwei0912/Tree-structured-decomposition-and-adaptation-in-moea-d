@@ -1,4 +1,4 @@
-# [Tree-structured decomposition and adaptation in MOEA/D]
+# Tree-structured decomposition and adaptation in MOEA/D
 
 ## Abstract
 The multiobjective evolutionary algorithm based on decompo-
