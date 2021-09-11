@@ -5,13 +5,13 @@ The multiobjective evolutionary algorithm based on decompo-
 sition (MOEA/D) converts a multiobjective optimization problem (MOP)
 into a set of simple subproblems, and deals with them simultaneously to
 approximate the Pareto optimal set (PS) of the original MOP. Normally
-in MOEA/D, a set of weight vectors are predened and kept unchanged
+in MOEA/D, a set of weight vectors are predefined and kept unchanged
 during the search process. In the last few years, it has been demonstrated
-in some cases that a set of predened subproblems may fail to achieve a
+in some cases that a set of predefined subproblems may fail to achieve a
 good approximation to the Pareto optimal set. The major reason is that
-it is usually unable to dene a proper set of subproblems, which take full
+it is usually unable to define a proper set of subproblems, which take full
 consideration of the characteristics of the MOP beforehand. Therefore,
-it is imperative to develop a way to adaptively redene the subproblems
+it is imperative to develop a way to adaptively redefine the subproblems
 during the search process. This paper proposes a tree-structured decom-
 position and adaptation (TDA) strategy to achieve this goal. The basic
 idea is to use a tree structure to decompose the search domain into a
@@ -19,7 +19,7 @@ set of subdomains that are related with some subproblems, and adaptively
 maintain these subdomains by analyzing the search behaviors of
 MOEA/D in these subdomains. The TDA strategy has been applied to
 a variety of test instances. Experimental results show the advantages
-of TDA on improving MOEA/D in dealing with MOPs with dierent
+of TDA on improving MOEA/D in dealing with MOPs with different
 characteristics.
 
 ## Code
