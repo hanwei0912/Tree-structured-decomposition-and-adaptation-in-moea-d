@@ -32,3 +32,20 @@ So you need "mex" to compile the code in MATLAB as below:
 > mex NDSelector.cpp
 
 Run the file demo_moeaddda_withPFarchive.m or demo_moeaddda_withPSarchive.m to see the demo.
+
+-----------------------------------
+    MOEA/D-TDA
+    Copyright (C) 2018 Hanwei Zhang -  East China Normal University
+
+    MOEA/D-TDA is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+
+    MOEA/D-TDA is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    To receive a copy of the GNU General Public License, see <http://www.gnu.org/licenses/>.
+-------------------------------------
